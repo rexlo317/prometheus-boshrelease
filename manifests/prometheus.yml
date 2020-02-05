@@ -175,9 +175,9 @@ stemcells:
 releases:
 - name: postgres
   version: "39"
-  url: https://artifact.oocl.com/artifactory/webapp/#/artifacts/browse/tree/General/cms2-utils-local/libs/prometheus/postgres-release-39.tgz
+  url: https://artifact.oocl.com/artifactory/cms2-utils-local/libs/prometheus/postgres-release-39.tgz
   sha1: 8ff395540e77a461322a01c41aa68973c10f1ffb
 - name: prometheus
   version: 25.0.0
-  url: https://artifact.oocl.com/artifactory/webapp/#/artifacts/browse/tree/General/cms2-utils-local/libs/prometheus/prometheus-25.0.0.tgz
+  url: https://artifact.oocl.com/artifactory/cms2-utils-local/libs/prometheus/prometheus-25.0.0.tgz
   sha1: 71cf36bf03edfeefd94746d7f559cbf92b62374c
